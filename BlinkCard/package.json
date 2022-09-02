@@ -1,6 +1,6 @@
 {
   "name": "blinkcard-capacitor",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "AI-driven credit card scanning for cross-platform apps built with Capacitor.",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -37,7 +37,7 @@
     "dist/",
     "ios/",
     "android/",
-    "MicroblinkBlinkcardCapacitor.podspec"
+    "BlinkcardCapacitor.podspec"
   ],
   "keywords": [
     "credit-card",
