@@ -1,6 +1,6 @@
 {
   "name": "blinkcard-capacitor",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "AI-driven credit card scanning for cross-platform apps built with Capacitor.",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
